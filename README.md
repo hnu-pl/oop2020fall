@@ -1,6 +1,10 @@
 # OOP course @ HNU CE undergrad
 Object-Oriented Programming course @ HNU CE undergrad
 
+## Textbooks
+1. [Do it! 자바 프로그래밍 입문, 이지스퍼블리싱](http://www.easyspub.co.kr/20_Menu/BookView/267)
+1. [Do it! 코틀린 프로그래밍, 이지스퍼블리싱](http://www.easyspub.co.kr/20_Menu/BookView/312)
+
 ## Programming languages and related tools
  * [Java](https://www.oracle.com/kr/java/)
    with [Jupyter notebook](https://jupyter.org/)
