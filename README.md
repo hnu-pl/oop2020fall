@@ -1,5 +1,6 @@
-[![Binder](https://static.mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hnu-pl/pl2020fall/master?urlpath=lab)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hnu-pl/pl2020fall/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hnu-pl/oop2020fall/master?urlpath=lab)
+[![NBviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/hnu-pl/oop2020fall/tree/master/)
+
 # OOP course @ HNU CE undergrad
 Object-Oriented Programming course @ HNU CE undergrad
 
