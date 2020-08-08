@@ -5,9 +5,9 @@ Object-Oriented Programming course @ HNU CE undergrad
 
 ## Textbooks
 * [Do it! 자바 프로그래밍 입문](http://www.easyspub.co.kr/20_Menu/BookView/267), 박은종 지음, 이지스퍼블리싱
-  - 출판사 유투브 채널에 올라온 [저자직강 동영상 재생목록](https://www.youtube.com/watch?v=oonYQa82MU4&list=PLG7te9eYUi7typZrH4fqXvs4E22ZFn1Nj)
+  - 출판사 유투브 채널에 올라온 [저자직강 동영상 재생목록](https://www.youtube.com/playlist?list=PLG7te9eYUi7typZrH4fqXvs4E22ZFn1Nj)
 * [Do it! 코틀린 프로그래밍](http://www.easyspub.co.kr/20_Menu/BookView/312), 황영덕 지음, 이지스퍼블리싱
-  - 출판사 유투브 채널에 링크된 [저자직강 동영상 재생목록](https://www.youtube.com/watch?v=TVWj0C9It-Q&list=PLG7te9eYUi7s_yeC3inmQeA-AHFydtzgm)
+  - 출판사 유투브 채널에 링크된 [저자직강 동영상 재생목록](https://www.youtube.com/playlist?list=PLccJpFPBw-NxL6agtfLvjtX8ohcZqDc17)
 
 ## Programming languages and related tools
  * [Java](https://www.oracle.com/kr/java/)
