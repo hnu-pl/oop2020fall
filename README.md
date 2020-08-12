@@ -28,5 +28,5 @@ Object-Oriented Programming course @ HNU CE undergrad
    course provided by Google.
  * [Io](http://iolanguage.org/)
    with [Jupyter notebook](https://jupyter.org/)
-   using [the Docker image running io language kernel](https://github.com/kyagrd/iio).
+   using [the Docker image running an io language kernel](https://github.com/kyagrd/iio).
 
