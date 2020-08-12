@@ -26,3 +26,7 @@ Object-Oriented Programming course @ HNU CE undergrad
    following along
    [Android basics in Kotlin](https://developer.android.com/courses/topics/android-basics-kotlin)
    course provided by Google.
+ * [Io](http://iolanguage.org/)
+   with [Jupyter notebook](https://jupyter.org/)
+   using [the Docker image running io language kernel](https://github.com/kyagrd/iio).
+
