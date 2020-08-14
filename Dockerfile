@@ -1,6 +1,7 @@
 # Dockerfile for mybinder.org
 
-FROM jbindinga/java-notebook:latest
+# FROM jbindinga/java-notebook:latest
+FROM kyagrd/iio:ijava
 
 USER root
 COPY *.ipynb /home/$NB_USER/work/
