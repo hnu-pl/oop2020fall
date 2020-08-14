@@ -30,3 +30,9 @@ Object-Oriented Programming course @ HNU CE undergrad
    with [Jupyter notebook](https://jupyter.org/)
    using [the Docker image running an io language kernel](https://github.com/kyagrd/iio).
 
+## Links
+
+유투브 *얄팍한 코딩사전* 채널
+* [Docker가 뭐고 왜 쓰는건가요?](https://youtu.be/tPjpcsgxgWc) 
+* [객체지향 디자인패턴 1](https://youtu.be/lJES5TQTTWE)
+* [객체지향 디자인패턴 2](https://youtu.be/q3_WXP9pPUQ)
