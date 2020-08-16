@@ -29,11 +29,19 @@ Object-Oriented Programming course @ HNU CE undergrad
  * [Io](http://iolanguage.org/)
    with [Jupyter notebook](https://jupyter.org/)
    using [the Docker image running an io language kernel](https://github.com/kyagrd/iio).
+ * [Windows Subsystem for Linux 2 (WSL 2)](https://docs.microsoft.com/ko-kr/windows/wsl/) for running the [Bash] shell scripts to launch the Docker images listed above
 
 ## Links
 
-유투브 *얄팍한 코딩사전* 채널
-* [Docker가 뭐고 왜 쓰는건가요?](https://youtu.be/tPjpcsgxgWc) 
-* [함수형 프로그래밍이 뭔가요?](https://youtu.be/jVG5jvOzu9Y)
-* [객체지향 디자인패턴 1](https://youtu.be/lJES5TQTTWE)
-* [객체지향 디자인패턴 2](https://youtu.be/q3_WXP9pPUQ)
+### Docker 및 WSL2 관련
+Windows 10 build 2004 (or preview releases via Windows Insider Program) supporting WSL 2
+* [Docker가 뭐고 왜 쓰는건가요?](https://youtu.be/tPjpcsgxgWc) -- *얄팍한 코딩사전* on YouTube
+* [WSL 2: Getting started](https://youtu.be/_fntjriRe48) -- *David Bombal* on YouTube
+* [WSL 2 with Docker getting started](https://youtu.be/5RQbdMn04Oc) -- *David Bombal* on YouTube
+* [Windows 10 2004 살펴보기.윈도우에서 쉽게 리눅스를 실행하자.(WSL2)Windows SubSystem for Linux](https://youtu.be/VfX9a1Nvx_Q) -- *OrangeStar* on YouTube
+* [예비 개발자를 위한 개발 영상 - 008.Windows에 도커 설치하기](https://youtu.be/DceEWpkng8M) -- *Foorogrammer-크롤러* on YouTube
+
+### 프로그래밍 패러다임 관련
+* [함수형 프로그래밍이 뭔가요?](https://youtu.be/jVG5jvOzu9Y) -- *얄팍한 코딩사전* on YouTube
+* [객체지향 디자인패턴 1](https://youtu.be/lJES5TQTTWE) -- *얄팍한 코딩사전* on YouTube
+* [객체지향 디자인패턴 2](https://youtu.be/q3_WXP9pPUQ) -- *얄팍한 코딩사전* on YouTube
