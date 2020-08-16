@@ -36,8 +36,9 @@ Object-Oriented Programming course @ HNU CE undergrad
 
 ## Links
 
-### Docker 및 WSL2 관련
-Windows 10 build 2004 (or preview releases via Windows Insider Program) supporting WSL 2
+### about Docker and WSL 2 
+Windows 10 build 2004 (or preview releases via Windows Insider Program) supporting WSL 2 is requierd for course activities,
+unless your preferred development machine is either Linux or Mac OS X.
 * [Docker가 뭐고 왜 쓰는건가요?](https://youtu.be/tPjpcsgxgWc) -- *얄팍한 코딩사전* on YouTube
 * [WSL 2: Getting started](https://youtu.be/_fntjriRe48) -- *David Bombal* on YouTube
 * [WSL 2 with Docker getting started](https://youtu.be/5RQbdMn04Oc) -- *David Bombal* on YouTube
