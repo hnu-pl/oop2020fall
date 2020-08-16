@@ -14,7 +14,7 @@ Object-Oriented Programming course @ HNU CE undergrad
   - 출판사 유투브 채널에 링크된 [저자직강 동영상 재생목록](https://www.youtube.com/playlist?list=PLccJpFPBw-NxL6agtfLvjtX8ohcZqDc17)
 
 
-## Programming languages and related tools
+## Programming languages and related tools for course activities
  * [Java](https://www.oracle.com/kr/java/)
    with [Jupyter notebook](https://jupyter.org/)
    using the [java-notebook](https://github.com/jbindinga/java-notebook) Docker image
