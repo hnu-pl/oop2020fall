@@ -31,7 +31,7 @@ Object-Oriented Programming course @ HNU CE undergrad
  * [Io](http://iolanguage.org/)
    with [Jupyter notebook](https://jupyter.org/)
    using [the Docker image running an io language kernel](https://github.com/kyagrd/iio).
- * [Windows Subsystem for Linux 2 (WSL 2)](https://docs.microsoft.com/ko-kr/windows/wsl/) for running the [Bash] shell scripts to launch the Docker images listed above
+ * [Windows Subsystem for Linux 2 (WSL 2)](https://docs.microsoft.com/ko-kr/windows/wsl/) for running the bash shell scripts to launch the Docker images listed above
 
 
 ## Links
