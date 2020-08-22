@@ -45,7 +45,7 @@ unless your preferred development machine is either Linux or Mac OS X.
 * [Windows 10 2004 살펴보기.윈도우에서 쉽게 리눅스를 실행하자.(WSL2)Windows SubSystem for Linux](https://youtu.be/VfX9a1Nvx_Q) -- *OrangeStar* on YouTube
 * [예비 개발자를 위한 개발 영상 - 008.Windows에 도커 설치하기](https://youtu.be/DceEWpkng8M) -- *Foorogrammer-크롤러* on YouTube
 
-### 프로그래밍 패러다임 관련
+### on Programming paradigms
 * [함수형 프로그래밍이 뭔가요?](https://youtu.be/jVG5jvOzu9Y) -- *얄팍한 코딩사전* on YouTube
 * [객체지향 디자인패턴 1](https://youtu.be/lJES5TQTTWE) -- *얄팍한 코딩사전* on YouTube
 * [객체지향 디자인패턴 2](https://youtu.be/q3_WXP9pPUQ) -- *얄팍한 코딩사전* on YouTube
