@@ -48,6 +48,8 @@ Videos
 * [예비 개발자를 위한 개발 영상 - 008.Windows에 도커 설치하기](https://youtu.be/DceEWpkng8M) -- *Foorogrammer-크롤러* on YouTube
 
 Blog posts
+* [WSL 2(Windows Subsystem For Linux 2) 정식 버전 사용하기](https://www.lesstif.com/software-architect/wsl-2-windows-subsystem-for-linux-2-89555812.html)
+    - 윈도우 개발자 프로그램(베타 버전 체험)이 아니라 최신 정식 출시 버전(Windows 10 버전 2004) 기준으로 WSL2 설치를 자세하게 주의사항 포함 정리가 잘 되어 있다
 * [window10에서 wsl2로 docker와 kubernetes 설치 해보기](https://evanjin.dev/development/window10%EC%97%90%EC%84%9C-wsl2%EB%A1%9C-docker%EC%99%80-kubernetes-%EC%84%A4%EC%B9%98-%ED%95%B4%EB%B3%B4%EA%B8%B0/) <br>
     - 지금은 위 블로그 글에서처럼 *window 참가자 프로그램을 설정*을 하지 않아도 일반 Windows 10 최신 업데이트(버전 2004, 빌드 19041 이상)에서 WSL 2가 지원되고 있다. 
     - 이 수업에서는 활용하지 않으므료 *쿠버네티스*(Kubernetis)는 설치하지 않아도 상관없다.
